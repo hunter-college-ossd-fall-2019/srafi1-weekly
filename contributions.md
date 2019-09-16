@@ -19,6 +19,4 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+|  3   | [link to my contribution](https://www.openstreetmap.org/changeset/74404218) | OpenStreetMap | Added library wifi info |
