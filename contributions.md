@@ -25,3 +25,6 @@ Replace the first row below with your contribution.
 | 9 | [Added supermarket name](https://www.openstreetmap.org/changeset/76273344#map=19/40.64284/-73.97987&layers=D) | OpenStreetMap | Added building name and type for Bangla Nagar |
 | 9 | [Fixed mosque name](https://www.openstreetmap.org/changeset/76273399#map=19/40.64021/-73.97875&layers=D) | OpenStreetMap | Fixed mosque name from "Masjid" to "Baitul Jannah" |
 | 9 | [Added mosque name](https://www.openstreetmap.org/changeset/76273438#map=19/40.64006/-73.97965&layers=D) | OpenStreetMap | Added building name and type for Darul Jannah |
+| 10 | [Fixed typos](https://github.com/hunter-college-ossd-fall-2019/darrenzhang2000-weekly/pull/2) | Blog Edit | Fixed some grammar in Darren's Week 9 post |
+| 10 | [Fixed typos](https://github.com/hunter-college-ossd-fall-2019/darrenzhang2000-weekly/pull/3) | Blog Edit | Fixed some grammar in Darren's Week 7 post |
+| 10 | [Fixed typos](https://github.com/hunter-college-ossd-fall-2019/kkhan01-weekly/pull/2) | Blog Edit | Fixed some grammar in Khinshan's Week 9 post |
