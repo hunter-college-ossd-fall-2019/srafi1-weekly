@@ -33,3 +33,4 @@ Replace the first row below with your contribution.
 | 12 | [Transferring issues](https://github.com/github/hub/pull/2363) | Project Code | Added a feature to Hub that lets you transfer issues from one repository to another. |
 | 14 | [Borough Park Library Image](https://en.wikipedia.org/w/index.php?title=List_of_Brooklyn_Public_Library_branches&diff=prev&oldid=929880403) | Wikipedia | Added an image of the Borough Park Library to the Brooklyn Public Library Branches page. |
 | 15 | [Reformatted history section](https://en.wikipedia.org/w/index.php?title=Halite_AI_Programming_Competition&diff=prev&oldid=931617656) | Wikipedia | Changed the format of the history section for Halite so that Halite I uses the same structure as Halite II and Halite III. |
+| 15 | [Added HackNY startup examples](https://en.wikipedia.org/w/index.php?title=HackNY&diff=prev&oldid=931618906) | Wikipedia | Added a link to example startups from previous students in HackNY. |
