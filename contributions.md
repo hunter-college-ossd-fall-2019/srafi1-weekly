@@ -30,5 +30,6 @@ Replace the first row below with your contribution.
 | 10 | [Fixed typos](https://github.com/hunter-college-ossd-fall-2019/kkhan01-weekly/pull/2) | Blog Edit | Fixed some grammar in Khinshan's Week 9 post |
 | 11 | [Mozilla financing info](https://en.wikipedia.org/w/index.php?title=Mozilla_Foundation&diff=prev&oldid=926069850) | Wikipedia | Updated info on Mozilla's partnership with Yahoo! as a default search engine. |
 | 11 | [Blockstack examples](https://en.wikipedia.org/w/index.php?title=Blockstack&diff=prev&oldid=926071862) | Wikipedia | Added a link to examples of projects developed using Blockstack. |
-| 14 | [Borough Park Library Image](https://en.wikipedia.org/w/index.php?title=List_of_Brooklyn_Public_Library_branches&diff=prev&oldid=929880403) | Wikipedia | Added an image of the Borough Park Library to the Brooklyn Public Library Branches page. |
 | 12 | [Transferring issues](https://github.com/github/hub/pull/2363) | Project Code | Added a feature to Hub that lets you transfer issues from one repository to another. |
+| 14 | [Borough Park Library Image](https://en.wikipedia.org/w/index.php?title=List_of_Brooklyn_Public_Library_branches&diff=prev&oldid=929880403) | Wikipedia | Added an image of the Borough Park Library to the Brooklyn Public Library Branches page. |
+| 15 | [Reformatted history section](https://en.wikipedia.org/w/index.php?title=Halite_AI_Programming_Competition&diff=prev&oldid=931617656) | Wikipedia | Changed the format of the history section for Halite so that Halite I uses the same structure as Halite II and Halite III. |
